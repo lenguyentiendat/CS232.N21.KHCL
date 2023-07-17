@@ -1,0 +1,14 @@
+pip
+streamlit
+Pillow
+numpy 
+pandas
+matplotlib 
+inv
+stqdm
+opencv-python-headless
+textblob
+scipy
+pytesseract
+nltk
+scikit-learn
